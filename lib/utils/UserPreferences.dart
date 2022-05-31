@@ -4,7 +4,7 @@ class UserPreferences {
   static const myUser = User(
       imagePath:
           'https://static.wikia.nocookie.net/tokyo-ghoul-re-birth/images/d/de/Hkk.png/revision/latest?cb=20190211064813',
-      name: 'UserName Desconocido',
+      name: 'Fernando Hernandez',
       aka: 'Xansiety',
       cellPhone: '722-691-5042',
       socialMedia: '@xansiety1',

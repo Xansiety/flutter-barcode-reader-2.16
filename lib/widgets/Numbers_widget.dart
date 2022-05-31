@@ -7,7 +7,7 @@ class NumbersWidget extends StatelessWidget {
         children: <Widget>[
           buildButton(context, '25', 'Edad'),
           buildDivider(),
-          buildButton(context, '25', 'Intentos de suicidio'),
+          buildButton(context, '3', 'Experiencia'),
           buildDivider(),
           buildButton(context, '0', 'MXN'),
         ],

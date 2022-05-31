@@ -9,7 +9,7 @@ import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'package:animated_theme_switcher/animated_theme_switcher.dart';
 
-//usamos const en las nuevas versiones de flutter siemopre y cuando el widget no sea dinamico
+//usamos const en las nuevas versiones de flutter siempre y cuando el widget no sea dinámico
 
 //void main() => runApp(const MyApp());
 
